@@ -14,7 +14,9 @@ dependencies:
   package_info_plus: ^4.1.0
   webview_flutter: ^4.2.0
   json_annotation: ^4.5.0
-  web3dart: 2.6.1
+  web3dart:
+   git:
+    url: https://github.com/xclud/web3dart.git
   blockchain_signer: ^0.1.0
   webview_flutter_wkwebview: ^3.7.3
   webview_flutter_android: ^3.9.3
